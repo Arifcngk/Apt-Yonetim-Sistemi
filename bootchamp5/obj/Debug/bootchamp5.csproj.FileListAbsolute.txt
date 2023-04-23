@@ -1,0 +1,15 @@
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\bin\Debug\bootchamp5.exe.config
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\bin\Debug\bootchamp5.exe
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\bin\Debug\bootchamp5.pdb
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.csproj.AssemblyReference.cache
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.Properties.Resources.resources
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.csproj.GenerateResource.cache
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.csproj.CoreCompileInputs.cache
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.exe
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.pdb
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.YoneticiPaneli.resources
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.ApartmanBilgileri.resources
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.AidatBilgileri.resources
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.LOGİN.resources
+C:\Users\ahey5\source\repos\bootchamp5\bootchamp5\obj\Debug\bootchamp5.yöneticiBilgileri.resources
